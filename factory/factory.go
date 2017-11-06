@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/ar-maged/guc-api/util"
+	"github.com/karimIslam/api/util"
 )
 
 const (
